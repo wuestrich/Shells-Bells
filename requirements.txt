@@ -1,0 +1,10 @@
+pypacker==5.1
+pycrypto==2.6.1
+librosa==0.9.1
+pyaudio==0.2.11
+numpy==1.21.5
+sox==1.4.1
+pandas==1.4.1
+matplotlib==3.5.1
+scipy==1.8.0
+opencv-python==4.6.0.66
